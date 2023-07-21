@@ -1,0 +1,7 @@
+redis
+flask
+flask-redis
+celery
+gunicorn
+gevent
+pyperclip
